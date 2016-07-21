@@ -1,0 +1,19 @@
+{
+  "name": "cassia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.test.js"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "events": "^1.1.1"
+  }
+}
